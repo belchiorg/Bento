@@ -65,10 +65,16 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
+		// {
+		// 	id: '3',
+		// 	name: 'Todoist',
+		// 	icon: 'trello',
+		// 	link: 'https://todoist.com',
+		// },
 		{
 			id: '4',
 			name: 'Calendar',
@@ -85,7 +91,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
